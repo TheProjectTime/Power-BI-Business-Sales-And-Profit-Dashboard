@@ -1,6 +1,6 @@
-## Power-BI-Business-Sales-And-Profit-Dashboard
+# Power-BI-Business-Sales-And-Profit-Dashboard
 
-# Business Dashboard Insights
+### Business Dashboard Insights
 
 The Power BI dashboard provides an overview of sales, profitability, units sold, products, countries and business segments.
 
