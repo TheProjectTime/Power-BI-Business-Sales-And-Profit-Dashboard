@@ -1,7 +1,9 @@
 # Power-BI-Business-Sales-And-Profit-Dashboard
 
+###Dashboard
+<img width="1980" height="1530" alt="Sales Dashboard" src="[https://github.com/user-attachments/assets/7bc95ed8-6901-4a1f-a36d-51227182d87f](https://github.com/TheProjectTime/Power-BI-Business-Sales-And-Profit-Dashboard/blob/main/Business_Sales_and_Profit_Analysis_1.jpg)"/>
 ### Business Dashboard Insights
-https://github.com/TheProjectTime/Power-BI-Business-Sales-And-Profit-Dashboard/blob/main/Business_Sales_and_Profit_Analysis_1.jpg
+
 The Power BI dashboard provides an overview of sales, profitability, units sold, products, countries and business segments.
 
 The business generated approximately **$118.73 million in total sales** and **$16.89 million in profit**, resulting in an overall profit margin of approximately **14.23%**. A total of approximately **1.13 million units** were sold.
