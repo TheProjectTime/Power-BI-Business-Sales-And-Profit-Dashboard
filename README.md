@@ -1,6 +1,6 @@
 # Power-BI-Business-Sales-And-Profit-Dashboard
 
-###Dashboard
+### Dashboard
 
 <img width="3690" height="2115" alt="Business_Sales_and_Profit_Analysis_1" src="https://github.com/user-attachments/assets/b8cd75ee-ba34-427b-8cf4-a514579f8e1a" />
 
